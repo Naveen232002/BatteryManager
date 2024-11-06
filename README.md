@@ -16,6 +16,6 @@ This is a 16 cell series BMS.
 5 Thermistors.
 Shunt based current sensing.
 
-#License
+# License
 
 Not licensed to use under any circumstances. This is a purely conceptual design and not tested yet. Copying is not allowed. #No Copyrights. Publisher is not responsible for any accidents or incidents that might be harmful due to the unauthorized use or testing of design/product. -*-
